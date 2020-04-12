@@ -1,7 +1,7 @@
 {
   "name": "@midiate/gadget-piano",
   "description": "MIDIate-compatible piano visualizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Omer Perry",
   "license": "MIT",
   "respository": {
@@ -24,9 +24,9 @@
     "build": "rollup -c"
   },
   "peerDependencies": {
+    "@tonaljs/tonal": "^3.5.1",
     "react": "^16.13.0",
-    "react-dom": "^16.13.0",
-    "@tonaljs/tonal": "^3.5.1"
+    "react-dom": "^16.13.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
