@@ -41,7 +41,7 @@
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-peer-deps-external": "^2.2.2",
     "rollup-plugin-postcss": "^2.5.0",
-    "rollup@": "^2.6.1"
+    "rollup": "^2.6.1"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
